@@ -1,4 +1,4 @@
 let weight = 68;
-const length = 1.7;
+let hight = 1.7;
 
-console.log(weight/(length*length));
+console.log(weight/(hight*hight));
